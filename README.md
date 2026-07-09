@@ -25,7 +25,7 @@ interests: Retrieval, embeddings, LLM orchestration, MLOps, responsible AI
 ### Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rokeshsankar"><img width="36" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rokeshsankar"><img width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:rokesh2000@gmail.com"><img width="36" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" /></a>
   &nbsp;&nbsp;
