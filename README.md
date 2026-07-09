@@ -32,6 +32,8 @@ interests: Retrieval, embeddings, LLM orchestration, MLOps, responsible AI
   <a href="https://x.com/rokesh_1"><img width="36" src="https://cdn.simpleicons.org/x/ffffff" alt="X" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/rokesh1"><img width="36" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://rokesh.me"><img width="36" src="https://img.icons8.com/fluency/48/domain.png" alt="Website" /></a>
 </p>
 
 ### Employer?
